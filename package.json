@@ -1,4 +1,5 @@
 {
+  "homepage": ".",
   "name": "ci-cd-cd",
   "version": "0.1.0",
   "private": true,
